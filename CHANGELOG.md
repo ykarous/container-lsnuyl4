@@ -1,3 +1,15 @@
+# v0.0.3 (Thu Feb 12 2026)
+
+#### ⚠️ Pushed to `main`
+
+- Add psutil to requirements ([@ykarous](https://github.com/ykarous))
+
+#### Authors: 1
+
+- [@ykarous](https://github.com/ykarous)
+
+---
+
 # v0.0.2 (Thu Feb 12 2026)
 
 #### ⚠️ Pushed to `main`
