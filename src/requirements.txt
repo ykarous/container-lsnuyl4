@@ -1,7 +1,7 @@
 Flask
 SQLAlchemy
 gunicorn
-
+psutil
 PyMySQL
 coloredlogs
 python-dotenv
